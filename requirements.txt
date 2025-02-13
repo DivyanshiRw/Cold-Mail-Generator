@@ -4,3 +4,4 @@ chromadb>=0.4
 pandas>=2.2
 langchain-community==0.3.7
 langchain-groq==0.2.4
+sqlite==3.35.5
